@@ -4,10 +4,16 @@ Welcome to my personal repository where I document my daily learning journey in 
 
 ## Repository Structure
 
-- **AI/**: Projects, experiments, and notes related to Artificial Intelligence concepts, algorithms, and applications.
-- **data_science_articles/**: A curated collection of links to insightful articles on data science topics, including my own Medium publications.
-- **machine_learning/**: Machine learning projects, model implementations, and tutorials covering various algorithms and techniques.
-- **R_programming/**: R scripts, data analysis projects, and statistical computing examples.
+- **AI/**: Projects, experiments, and notes related to Artificial Intelligence concepts, algorithms, and applications.  
+  [📖 Read more](AI/README.md)
+- **data_science_articles/**: A curated collection of links to insightful articles on data science topics, including my own Medium publications.  
+  [📖 Read more](data_science_articles/README.md)
+- **machine_learning/**: Machine learning projects, model implementations, and tutorials covering various algorithms and techniques.  
+  [📖 Read more](machine_learning/README.md)
+- **R_programming/**: R scripts, data analysis projects, and statistical computing examples.  
+  [📖 Read more](R_programming/README.md)
+- **SQL/**: SQL queries, database design, and data manipulation examples.  
+  [📖 Read more](SQL/README.md)
 
 ## Getting Started
 
